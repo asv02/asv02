@@ -1,0 +1,12 @@
+    .alert alert-success alert-dismissible fade show {
+        animation: akash 2s linear;
+    }
+    
+    @keyframes akash {
+        from {
+            height: 0px
+        }
+        to {
+            height: 100%
+        }
+    }
