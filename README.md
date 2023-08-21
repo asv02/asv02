@@ -12,7 +12,8 @@
 
      # 📈 Coding Profile:
   <p align="center">
-<img src="https://leetcard.jacoblin.cool/asv0_2?theme=dark&font=Poppins&ext=contest"><br><br>
+![Leetcode Stats]<img src="https://leetcard.jacoblin.cool/asv0_2?theme=dark&font=Poppins&ext=contest"><br><br>
+![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=asv02)
 </p>
   
  # 📈 GitHub Contribution Graph:
