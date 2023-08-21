@@ -20,7 +20,7 @@
 </a>
 <a href="https://leetcode.com/asv0_2">
 
-<img height="316" src="https://leetcard.jacoblin.cool/asv0_2?theme=dark&font=Ubuntu&cache=14400&ext=contest&sheets=https://gist.githubusercontent.com/asv0_2/5e715e284c89cace8f5fa09f7fb930b8/raw/ec0be570f114124b1a2156a660d67baa0ab5639d/leetcode_stats_card.css" alt="asv0_2 Leetcode Stats"/>
+<img height="316" src="https://leetcard.jacoblin.cool/asv0_2?theme=dark&font=Content&ext=heatmap"/>
 </a>
 </span>
   
