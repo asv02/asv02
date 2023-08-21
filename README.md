@@ -11,10 +11,14 @@
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
 
      # 📈 Coding Profile:
-  <p align="center">
-![Leetcode Stats]<be><br><img src="https://leetcard.jacoblin.cool/asv0_2?theme=dark&font=Poppins&ext=contest"><br><br>
-![Codeforces Stats]https://codeforces-readme-stats.vercel.app/api/card?username=asv02
-</p>
+ <span>
+<a href="https://codeforces.com/profile/asv02">
+<img height="316" src="https://codeforces-readme-stats.vercel.app/api/card?username=asv02&theme=github_dark&force_username=true&border_color=404040" alt="asv02 Codeforces Stats"/>
+</a>
+<a href="https://leetcode.com/asv0_2">
+<img height="316" src="https://leetcard.jacoblin.cool/asv0_2?theme=dark&font=Ubuntu&cache=14400&ext=contest&sheets=https://gist.githubusercontent.com/asv0_2/5e715e284c89cace8f5fa09f7fb930b8/raw/ec0be570f114124b1a2156a660d67baa0ab5639d/leetcode_stats_card.css" alt="asv0_2 Leetcode Stats"/>
+</a>
+</span>
   
  # 📈 GitHub Contribution Graph:
  <p align="center">
