@@ -12,15 +12,10 @@
 
      # 📈 Coding Profile:
  <span>
-<a href="https://www.codechef.com/users/asv02">
-<img height="316" src="https://codechef-readme-stats.vercel.app/api/card?username=asv02&theme=github_dark&force_username=true&border_color=404040" alt="asv02 Codechef Stats"/>
-</a>
 <a href="https://codeforces.com/profile/asv02">
-<img height="316" src="https://codeforces-readme-stats.vercel.app/api/card?username=asv02&theme=github_dark&force_username=true&border_color=404040" alt="asv02 Codeforces Stats"/>
+<img height="250" src="https://codeforces-readme-stats.vercel.app/api/card?username=asv02&theme=github_dark&force_username=true&border_color=404040" alt="asv02 Codeforces Stats"/>
 </a>
-<a href="https://leetcode.com/asv0_2">
-
-<img height="316" src="https://leetcard.jacoblin.cool/asv0_2?theme=dark&font=Content&ext=heatmap"/>
+<img height="250" src="https://leetcard.jacoblin.cool/asv0_2?theme=dark&font=Content&ext=heatmap"/>
 </a>
 </span>
   
