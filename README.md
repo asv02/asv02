@@ -12,7 +12,7 @@
 
      # 📈 Coding Profile:
  <span>
-<a href="https://codechef/profile/asv02">
+<a href="https://www.codechef.com/users/asv02">
 <img height="316" src="https://codechef-readme-stats.vercel.app/api/card?username=asv02&theme=github_dark&force_username=true&border_color=404040" alt="asv02 Codechef Stats"/>
 </a>
 <a href="https://codeforces.com/profile/asv02">
