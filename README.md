@@ -45,7 +45,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=asv02&icon=8&color=5)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
+  ## 💰 Buy Me a Coffee.
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/AkashSuryavanshiIN) 
 
   
